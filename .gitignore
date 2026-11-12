@@ -1,0 +1,21 @@
+# Build files
+build/
+cmake-build-*/
+Debug/
+Release/
+out/
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.pdb
+
+# IDE files
+.vs/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
